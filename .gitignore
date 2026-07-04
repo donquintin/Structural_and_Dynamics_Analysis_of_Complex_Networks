@@ -8,6 +8,9 @@ sis_env/
 networks/
 *.geojson
 iter_00_cpv2010/
+results/
+figures/
 *.zip
 *.png
+*.csv
 EO
