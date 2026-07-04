@@ -9,4 +9,5 @@ networks/
 *.geojson
 iter_00_cpv2010/
 *.zip
+*.png
 EO
