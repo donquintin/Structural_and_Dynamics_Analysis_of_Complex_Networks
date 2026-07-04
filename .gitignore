@@ -1,0 +1,12 @@
+cat > .gitignore << 'EOF'
+# cachés de Python
+__pycache__/
+*.pyc
+sis_env/
+
+# datos y resultados grandes (se regeneran o son fuentes pesadas)
+networks/
+*.geojson
+iter_00_cpv2010/
+*.zip
+EO
